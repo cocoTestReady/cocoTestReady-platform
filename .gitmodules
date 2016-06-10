@@ -1,0 +1,9 @@
+[submodule "app"]
+	path = app
+	url = https://github.com/cocoTestReady/app.git
+[submodule "paper-frontend"]
+	path = paper-frontend
+	url = https://github.com/cocoTestReady/paper-frontend.git
+[submodule "core-frontend"]
+	path = core-frontend
+	url = https://github.com/cocoTestReady/core-frontend.git
